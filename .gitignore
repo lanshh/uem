@@ -1,0 +1,7 @@
+#ignore the souceinsight project files
+insight*
+#ignore the vs project files and generate files 
+*.ncb
+Debug/
+Release/
+*.user
